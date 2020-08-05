@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá DEV Bem-vindo ao meu portifólio, Álisson Xavier aqui  👋
 
-<!--
-**Cocica/Cocica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:purple_heart: Sou apaixonado por resolver problemas utilizando a programação e atualmente sou graduando em Ciência da computação pela UFV 
 
-Here are some ideas to get you started:
+##### :battery: Buscando sempre aprimorar, no momento estudando: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic"> <img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=plastic"> <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic"> <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic"> <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
+
+
+:email: Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-alissonox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissonox/)](https://www.linkedin.com/in/alissonox/)
+[![Gmail Badge](https://img.shields.io/badge/-alisson.xavier@ufv.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alisson.xavier@ufv.br)](mailto:alisson.xavier@ufv.br)
+
+
+
+
