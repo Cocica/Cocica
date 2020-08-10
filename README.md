@@ -1,4 +1,4 @@
-# Olá DEV Bem-vindo ao meu portifólio, Álisson Xavier aqui  👋
+# Olá DEV Bem-vindo ao meu perfil, Álisson Xavier aqui  👋
 
 :purple_heart: Sou apaixonado por resolver problemas utilizando a programação e atualmente sou graduando em Ciência da computação pela UFV 
 
