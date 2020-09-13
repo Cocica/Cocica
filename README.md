@@ -8,7 +8,7 @@
 
 
 :email: Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-alissonox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissonox/)](https://www.linkedin.com/in/alissonox/)
-[![Gmail Badge](https://img.shields.io/badge/-alisson.xavier@ufv.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alisson.xavier@ufv.br)](mailto:alisson.xavier@ufv.br)
+[![Gmail Badge](https://img.shields.io/badge/-alissonoliveiraxr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alissonoliveiraxr@gmail.com)](mailto:alisson.xavier@ufv.br)
 
 
 
